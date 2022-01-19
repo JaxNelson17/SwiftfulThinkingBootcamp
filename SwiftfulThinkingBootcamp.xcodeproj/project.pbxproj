@@ -12,6 +12,7 @@
 		A32D07C52798ACB200C350E5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A32D07C42798ACB200C350E5 /* Assets.xcassets */; };
 		A32D07C82798ACB200C350E5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A32D07C72798ACB200C350E5 /* Preview Assets.xcassets */; };
 		A32D07CF2798B0A400C350E5 /* TextBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A32D07CE2798B0A400C350E5 /* TextBootcamp.swift */; };
+		A32D07D12798B70700C350E5 /* ShapesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A32D07D02798B70700C350E5 /* ShapesBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		A32D07C42798ACB200C350E5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A32D07C72798ACB200C350E5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A32D07CE2798B0A400C350E5 /* TextBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootcamp.swift; sourceTree = "<group>"; };
+		A32D07D02798B70700C350E5 /* ShapesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				A32D07C02798ACB100C350E5 /* SwiftfulThinkingBootcampApp.swift */,
 				A32D07C22798ACB100C350E5 /* ContentView.swift */,
 				A32D07CE2798B0A400C350E5 /* TextBootcamp.swift */,
+				A32D07D02798B70700C350E5 /* ShapesBootcamp.swift */,
 				A32D07C42798ACB200C350E5 /* Assets.xcassets */,
 				A32D07C62798ACB200C350E5 /* Preview Content */,
 			);
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A32D07D12798B70700C350E5 /* ShapesBootcamp.swift in Sources */,
 				A32D07C32798ACB100C350E5 /* ContentView.swift in Sources */,
 				A32D07CF2798B0A400C350E5 /* TextBootcamp.swift in Sources */,
 				A32D07C12798ACB100C350E5 /* SwiftfulThinkingBootcampApp.swift in Sources */,
