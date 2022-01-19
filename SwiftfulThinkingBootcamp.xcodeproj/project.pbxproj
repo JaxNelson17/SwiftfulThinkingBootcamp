@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A31E5B8F2798CE1900A9B4A6 /* IconsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A31E5B8E2798CE1900A9B4A6 /* IconsBootcamp.swift */; };
 		A32D07C12798ACB100C350E5 /* SwiftfulThinkingBootcampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A32D07C02798ACB100C350E5 /* SwiftfulThinkingBootcampApp.swift */; };
 		A32D07C32798ACB100C350E5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A32D07C22798ACB100C350E5 /* ContentView.swift */; };
 		A32D07C52798ACB200C350E5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A32D07C42798ACB200C350E5 /* Assets.xcassets */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A31E5B8E2798CE1900A9B4A6 /* IconsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsBootcamp.swift; sourceTree = "<group>"; };
 		A32D07BD2798ACB100C350E5 /* SwiftfulThinkingBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulThinkingBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A32D07C02798ACB100C350E5 /* SwiftfulThinkingBootcampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulThinkingBootcampApp.swift; sourceTree = "<group>"; };
 		A32D07C22798ACB100C350E5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 				A32D07D02798B70700C350E5 /* ShapesBootcamp.swift */,
 				A32D07D22798BE6800C350E5 /* ColorsBootcamp.swift */,
 				A346032D2798C695001A9EDC /* GradientsBootcamp.swift */,
+				A31E5B8E2798CE1900A9B4A6 /* IconsBootcamp.swift */,
 				A32D07C42798ACB200C350E5 /* Assets.xcassets */,
 				A32D07C62798ACB200C350E5 /* Preview Content */,
 			);
@@ -155,6 +158,7 @@
 				A32D07C32798ACB100C350E5 /* ContentView.swift in Sources */,
 				A32D07CF2798B0A400C350E5 /* TextBootcamp.swift in Sources */,
 				A32D07C12798ACB100C350E5 /* SwiftfulThinkingBootcampApp.swift in Sources */,
+				A31E5B8F2798CE1900A9B4A6 /* IconsBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
