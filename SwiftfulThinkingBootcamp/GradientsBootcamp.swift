@@ -11,7 +11,7 @@ struct GradientsBootcamp: View {
     var body: some View {
         RoundedRectangle(cornerRadius: 25.0)
             .fill(
-                //Color.red
+//                Color.red
 //                LinearGradient(
 //                    gradient: Gradient(colors: [Color.red, Color.blue]),
 //                    startPoint: .topLeading,

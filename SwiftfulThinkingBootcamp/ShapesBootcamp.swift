@@ -17,8 +17,8 @@ struct ShapesBootcamp: View {
 //            .foregroundColor(.pink)
 //            .stroke(Color.red)
 //            .strokeBorder(Color.blue, lineWidth: 30)
-//            .stroke(Color.orange, style: StrokeStyle(lineWidth: 20, lineCap: .butt, dash: [10]))
-            .trim(from: 0.2, to: 1.0)
+            .stroke(Color.orange, style: StrokeStyle(lineWidth: 20, lineCap: .butt, dash: [10]))
+            //.trim(from: 0.2, to: 1.0)
 //            .stroke(Color.purple, lineWidth: 50)
             .frame(width: 300, height: 200)
         

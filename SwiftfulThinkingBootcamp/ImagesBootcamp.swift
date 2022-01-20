@@ -9,12 +9,12 @@ import SwiftUI
 
 struct ImagesBootcamp: View {
     var body: some View {
-        Image("dice")
+        Image("jackblack")
             //.renderingMode(.template)
             .resizable()
-            //.aspectRatio(contentMode: .fit)
+//            .aspectRatio(contentMode: .fit)
+            .scaledToFill()
             //.scaledToFit()
-            .scaledToFit()
             .frame(width: 300, height: 200)
             //.foregroundColor(.red)
             //.clipped
