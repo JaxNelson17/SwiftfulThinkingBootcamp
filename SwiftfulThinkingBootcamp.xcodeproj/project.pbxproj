@@ -21,6 +21,7 @@
 		A3B389542799FEC100DE7B77 /* BackgroundOverlayBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3B389532799FEC100DE7B77 /* BackgroundOverlayBootcamp.swift */; };
 		A3CBF961279A060C0020D057 /* StacksBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3CBF960279A060C0020D057 /* StacksBootcamp.swift */; };
 		A3DE2C2C279A0E5600E2F8DB /* PaddingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3DE2C2B279A0E5600E2F8DB /* PaddingBootcamp.swift */; };
+		A3DE2C2E279A110600E2F8DB /* SpacingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3DE2C2D279A110600E2F8DB /* SpacingBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +40,7 @@
 		A3B389532799FEC100DE7B77 /* BackgroundOverlayBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundOverlayBootcamp.swift; sourceTree = "<group>"; };
 		A3CBF960279A060C0020D057 /* StacksBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBootcamp.swift; sourceTree = "<group>"; };
 		A3DE2C2B279A0E5600E2F8DB /* PaddingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingBootcamp.swift; sourceTree = "<group>"; };
+		A3DE2C2D279A110600E2F8DB /* SpacingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacingBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				A3B389532799FEC100DE7B77 /* BackgroundOverlayBootcamp.swift */,
 				A3CBF960279A060C0020D057 /* StacksBootcamp.swift */,
 				A3DE2C2B279A0E5600E2F8DB /* PaddingBootcamp.swift */,
+				A3DE2C2D279A110600E2F8DB /* SpacingBootcamp.swift */,
 				A32D07C42798ACB200C350E5 /* Assets.xcassets */,
 				A32D07C62798ACB200C350E5 /* Preview Content */,
 			);
@@ -175,6 +178,7 @@
 				A32D07D12798B70700C350E5 /* ShapesBootcamp.swift in Sources */,
 				A32D07C32798ACB100C350E5 /* ContentView.swift in Sources */,
 				A32D07CF2798B0A400C350E5 /* TextBootcamp.swift in Sources */,
+				A3DE2C2E279A110600E2F8DB /* SpacingBootcamp.swift in Sources */,
 				A3B389542799FEC100DE7B77 /* BackgroundOverlayBootcamp.swift in Sources */,
 				A3CBF961279A060C0020D057 /* StacksBootcamp.swift in Sources */,
 				A32D07C12798ACB100C350E5 /* SwiftfulThinkingBootcampApp.swift in Sources */,
