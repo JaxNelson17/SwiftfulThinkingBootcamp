@@ -28,6 +28,7 @@
 		A3DE2C2E279A110600E2F8DB /* SpacingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3DE2C2D279A110600E2F8DB /* SpacingBootcamp.swift */; };
 		A3F9633F27A0A7D400255BCA /* SafeAreaBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3F9633E27A0A7D400255BCA /* SafeAreaBootcamp.swift */; };
 		A3F9634127A0B25F00255BCA /* ButtonBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3F9634027A0B25F00255BCA /* ButtonBootcamp.swift */; };
+		A3F9634327A0BCF100255BCA /* StateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3F9634227A0BCF100255BCA /* StateBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -53,6 +54,7 @@
 		A3DE2C2D279A110600E2F8DB /* SpacingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacingBootcamp.swift; sourceTree = "<group>"; };
 		A3F9633E27A0A7D400255BCA /* SafeAreaBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaBootcamp.swift; sourceTree = "<group>"; };
 		A3F9634027A0B25F00255BCA /* ButtonBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonBootcamp.swift; sourceTree = "<group>"; };
+		A3F9634227A0BCF100255BCA /* StateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				A38C03FB279F6BCC00F2F19D /* ForEachBootcamp.swift */,
 				A39460A927A090CA00063F46 /* ScrollViewBootcamp.swift */,
 				A39460AB27A0972C00063F46 /* LazyGridBootcamp.swift */,
+				A3F9634227A0BCF100255BCA /* StateBootcamp.swift */,
 				A3F9633E27A0A7D400255BCA /* SafeAreaBootcamp.swift */,
 				A3F9634027A0B25F00255BCA /* ButtonBootcamp.swift */,
 				A32D07C42798ACB200C350E5 /* Assets.xcassets */,
@@ -188,6 +191,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A3F9634327A0BCF100255BCA /* StateBootcamp.swift in Sources */,
 				A346032E2798C695001A9EDC /* GradientsBootcamp.swift in Sources */,
 				A32D07D32798BE6800C350E5 /* ColorsBootcamp.swift in Sources */,
 				A39460AA27A090CA00063F46 /* ScrollViewBootcamp.swift in Sources */,
