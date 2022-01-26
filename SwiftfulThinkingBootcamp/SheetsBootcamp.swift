@@ -27,9 +27,11 @@ struct SheetsBootcamp: View {
                     .background(Color.white.cornerRadius(10))
             })
                 .fullScreenCover(isPresented: $showSheet, content: {
+                    //DO NOT ADD CONDITIONAL LOGIC
                     SecondScreen()
                 })
 //                .sheet(isPresented: $showSheet, content: {
+            //    DO NOT ADD CONDITIONAL LOGIC
 //                    SecondScreen()
 //            })
         }
