@@ -12,7 +12,7 @@ struct NavigationViewBootcamp: View {
         NavigationView {
             ScrollView {
                 
-                NavigationLink("Hello, World", destination: Text("Second Screen."))
+                NavigationLink("Hello, World", destination: MyOtherScreen())
                 
                 Text("Hello, World!")
                 Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
@@ -21,13 +21,40 @@ struct NavigationViewBootcamp: View {
             .navigationTitle("All Inboxes")
 //            .navigationBarTitleDisplayMode(.automatic)
             //.navigationBarHidden(true)
+            .navigationBarItems(
+                leading:
+                    HStack {
+                        Image(systemName: "person.fill")
+                        Image(systemName: "flame.fill")
+                    },
+                trailing:
+                    NavigationLink(destination: MyOtherScreen(), label: {
+                        Image(systemName: "gear")
+                    })
+                    .accentColor(.red)
+            )
         }
     }
 }
 
 struct MyOtherScreen: View {
+    
+    @Environment(\.presentationMode) var presentationMode
+    
     var body: some View {
-        Text("Hello World")
+        ZStack {
+            Color.green
+                .ignoresSafeArea()
+                .navigationTitle("Green Screen!")
+                //.navigationBarHidden(true)
+            
+            VStack {
+                Button("BACK BUTTON") {
+                    presentationMode.wrappedValue.dismiss()
+                }
+                NavigationLink("Click Here", destination: Text("Third Screen"))
+            }
+        }
     }
 }
 
