@@ -17,6 +17,8 @@ struct TextEditorBootcamp: View {
             VStack {
                 TextEditor(text: $textEditorText)
                     .frame(height: 250)
+                    //.foregroundColor(.red)
+                    .cornerRadius(10)
                 
                 Button(action: {
                     savedText = textEditorText
