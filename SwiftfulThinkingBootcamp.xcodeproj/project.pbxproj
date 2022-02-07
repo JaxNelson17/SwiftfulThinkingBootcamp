@@ -43,6 +43,7 @@
 		A363EE1627B1C41A00293A69 /* IntroView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A363EE1527B1C41A00293A69 /* IntroView.swift */; };
 		A363EE1827B1C64E00293A69 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A363EE1727B1C64E00293A69 /* OnboardingView.swift */; };
 		A363EE1A27B1D58F00293A69 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A363EE1927B1D58F00293A69 /* ProfileView.swift */; };
+		A363EE1C27B1DEF400293A69 /* AsyncImageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A363EE1B27B1DEF400293A69 /* AsyncImageBootcamp.swift */; };
 		A364C9F427A9F4AE00EB3F87 /* DocumentationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A364C9F327A9F4AE00EB3F87 /* DocumentationBootcamp.swift */; };
 		A38C03FA279F5FBE00F2F19D /* InitsEnumsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A38C03F9279F5FBE00F2F19D /* InitsEnumsBootcamp.swift */; };
 		A38C03FC279F6BCC00F2F19D /* ForEachBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A38C03FB279F6BCC00F2F19D /* ForEachBootcamp.swift */; };
@@ -105,6 +106,7 @@
 		A363EE1527B1C41A00293A69 /* IntroView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IntroView.swift; sourceTree = "<group>"; };
 		A363EE1727B1C64E00293A69 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		A363EE1927B1D58F00293A69 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		A363EE1B27B1DEF400293A69 /* AsyncImageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncImageBootcamp.swift; sourceTree = "<group>"; };
 		A364C9F327A9F4AE00EB3F87 /* DocumentationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocumentationBootcamp.swift; sourceTree = "<group>"; };
 		A38C03F9279F5FBE00F2F19D /* InitsEnumsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitsEnumsBootcamp.swift; sourceTree = "<group>"; };
 		A38C03FB279F6BCC00F2F19D /* ForEachBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBootcamp.swift; sourceTree = "<group>"; };
@@ -212,6 +214,7 @@
 				A345DB4227AC6B31001D5D2B /* ViewModelBootcamp.swift */,
 				A3FB0FCA27AC805800083F3C /* EnvironmentBootcamp.swift */,
 				A3FB0FCC27AC8D0500083F3C /* AppStorageBootcamp.swift */,
+				A363EE1B27B1DEF400293A69 /* AsyncImageBootcamp.swift */,
 				A363EE1427B1C3FD00293A69 /* OnBoardingViews */,
 				A32D07C42798ACB200C350E5 /* Assets.xcassets */,
 				A32D07C62798ACB200C350E5 /* Preview Content */,
@@ -323,6 +326,7 @@
 				A3196BBD27A89B49002BD4E0 /* ContextMenuBootcamp.swift in Sources */,
 				A3196BBF27A89E87002BD4E0 /* TextFieldBootcamp.swift in Sources */,
 				A39460AC27A0972C00063F46 /* LazyGridBootcamp.swift in Sources */,
+				A363EE1C27B1DEF400293A69 /* AsyncImageBootcamp.swift in Sources */,
 				A3B389522799FB1300DE7B77 /* FramesBootcamp.swift in Sources */,
 				A3DE2C2C279A0E5600E2F8DB /* PaddingBootcamp.swift in Sources */,
 				A33658FA27AB346E001BA440 /* IfLetGuardBootcamp.swift in Sources */,
