@@ -9,7 +9,7 @@ import SwiftUI
 
 struct AppStorageBootcamp: View {
     
-    @State var currentUserName: String?
+    @AppStorage("name") var currentUserName: String?
     
     var body: some View {
         VStack(spacing: 20) {
@@ -20,12 +20,10 @@ struct AppStorageBootcamp: View {
             }
             
             Button("Save".uppercased()) {
-                let name = "Nick"
+                let name: String = "Emily"
                 currentUserName = name
-                UserDefaults.standard.set(name, forKey: "name")
             }
         }
-        .onAppear(perform: <#T##(() -> Void)?##(() -> Void)?##() -> Void#>)
     }
 }
 
