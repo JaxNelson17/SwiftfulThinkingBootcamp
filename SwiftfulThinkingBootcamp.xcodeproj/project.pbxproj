@@ -59,6 +59,7 @@
 		A3C2082627B3167E008C388C /* SwipeActionsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3C2082527B3167E008C388C /* SwipeActionsBootcamp.swift */; };
 		A3C2082827B319BA008C388C /* BadgesBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3C2082727B319BA008C388C /* BadgesBootcamp.swift */; };
 		A3C2082A27B31B85008C388C /* FocusStateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3C2082927B31B85008C388C /* FocusStateBootcamp.swift */; };
+		A3C2082C27B31FD1008C388C /* OnSubmitBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3C2082B27B31FD1008C388C /* OnSubmitBootcamp.swift */; };
 		A3CBF961279A060C0020D057 /* StacksBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3CBF960279A060C0020D057 /* StacksBootcamp.swift */; };
 		A3D814FE27A9DADF00AE42DA /* DatePickerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3D814FD27A9DADF00AE42DA /* DatePickerBootcamp.swift */; };
 		A3DE2C2C279A0E5600E2F8DB /* PaddingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3DE2C2B279A0E5600E2F8DB /* PaddingBootcamp.swift */; };
@@ -128,6 +129,7 @@
 		A3C2082527B3167E008C388C /* SwipeActionsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipeActionsBootcamp.swift; sourceTree = "<group>"; };
 		A3C2082727B319BA008C388C /* BadgesBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BadgesBootcamp.swift; sourceTree = "<group>"; };
 		A3C2082927B31B85008C388C /* FocusStateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FocusStateBootcamp.swift; sourceTree = "<group>"; };
+		A3C2082B27B31FD1008C388C /* OnSubmitBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnSubmitBootcamp.swift; sourceTree = "<group>"; };
 		A3CBF960279A060C0020D057 /* StacksBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBootcamp.swift; sourceTree = "<group>"; };
 		A3D814FD27A9DADF00AE42DA /* DatePickerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerBootcamp.swift; sourceTree = "<group>"; };
 		A3DE2C2B279A0E5600E2F8DB /* PaddingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingBootcamp.swift; sourceTree = "<group>"; };
@@ -233,6 +235,7 @@
 				A3C2082527B3167E008C388C /* SwipeActionsBootcamp.swift */,
 				A3C2082727B319BA008C388C /* BadgesBootcamp.swift */,
 				A3C2082927B31B85008C388C /* FocusStateBootcamp.swift */,
+				A3C2082B27B31FD1008C388C /* OnSubmitBootcamp.swift */,
 				A363EE1427B1C3FD00293A69 /* OnBoardingViews */,
 				A32D07C42798ACB200C350E5 /* Assets.xcassets */,
 				A32D07C62798ACB200C350E5 /* Preview Content */,
@@ -351,6 +354,7 @@
 				A363EE2027B1E3AD00293A69 /* TextSelectionBootcamp.swift in Sources */,
 				A33658FA27AB346E001BA440 /* IfLetGuardBootcamp.swift in Sources */,
 				A300BDCF27A1E17A00AEA5BB /* ExtractedFuncBootcamp.swift in Sources */,
+				A3C2082C27B31FD1008C388C /* OnSubmitBootcamp.swift in Sources */,
 				A300BDD727A1EFB700AEA5BB /* TernaryBootcamp.swift in Sources */,
 				A32D07D12798B70700C350E5 /* ShapesBootcamp.swift in Sources */,
 				A300BDD127A1E44F00AEA5BB /* ExtractSubViewsBootcamp.swift in Sources */,
